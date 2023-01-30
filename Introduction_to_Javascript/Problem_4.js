@@ -1,0 +1,22 @@
+let name="Saurabh Maske";
+let school="SARASWATI VIDYA MANDIR, WARDHA.";
+let grade="A+";
+let section="A";
+let roll_no=07;
+let m_physics=91;
+let m_biology=93;
+let m_chemistry=95;
+
+console.log("======================================");
+console.log(school);
+console.log("======================================");
+console.log("Name of Student: ",name);
+console.log("======================================");
+console.log("Section: ",section,"    RollNo.: ",roll_no);
+console.log("======================================");
+console.log("| Marks obtained in Physics   | ",m_physics," |");
+console.log("| Marks obtained in Biology   | ",m_biology," |");
+console.log("| Marks obtained in Chemistry | ",m_chemistry," |");
+console.log("======================================");
+console.log("Grade is: ",grade);
+console.log("======================================");
